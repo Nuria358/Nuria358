@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Nuria358
+- 👋 Hi, I’m @Nuria358 from North London
 - 👀 I’m interested in health data management
-- 🌱 I’m currently learning Python and I 💚 it
+- 🌱 I’m currently learning Python and I 💚 it!
 - 💞️ I’m looking to collaborate on clinical and scientific data projects
 - 📫 Reach me at nuriabatlle358@gmail.com
 - 😄 Pronouns: She/her
